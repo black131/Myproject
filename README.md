@@ -1,1 +1,1 @@
-Burada üniversite hayatım boyunca derin öğrenme, makine öğrenmesi projelerim yer almaktadır. 
+Sıfırdan python öğrenerek kendim gerçek zamanlı projeler gerçekleştirdim. Bunları yaparken yapay zekanın en temel kısmı olan yapay sinir ağlarından başlayıp gerçek zamanlı görüntü işleme projeleriyle devam ettim. Şu anda da ileri düzey derin öğrenme projeleri gerçekleştiriyorum. Bununla beraber yapay zeka mühendisi olarak T3AL'de gönüllü olarak çalışıyorum.
